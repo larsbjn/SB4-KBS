@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" ?>
 
 <!DOCTYPE module_updates PUBLIC "-//NetBeans//DTD Autoupdate Catalog 2.5//EN" "http://www.netbeans.org/dtds/autoupdate-catalog-2_5.dtd">
-<module_updates timestamp="38/08/20/11/04/2019">
+<module_updates timestamp="03/26/21/11/04/2019">
 
 
 
@@ -85,7 +85,7 @@
     
 </module>
 
-<module codenamebase="dk.sdu.mmmi.cbse.SilentUpdate" distribution="SilentUpdate-1.0-SNAPSHOT.nbm" downloadsize="11143" license="4FF26B14" needsrestart="false" releasedate="2019/04/11" targetcluster="asteroidsnetbeansmodules">
+<module codenamebase="dk.sdu.mmmi.cbse.SilentUpdate" distribution="SilentUpdate-1.0-SNAPSHOT.nbm" downloadsize="11120" license="4FF26B14" needsrestart="false" releasedate="2019/04/11" targetcluster="asteroidsnetbeansmodules">
     <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.SilentUpdate" OpenIDE-Module-Display-Category="Infrastructure" OpenIDE-Module-Implementation-Version="1.0-20190411" OpenIDE-Module-Long-Description="A service installing updates of your NetBeans Platform Application with as few as possible user's interactions." OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, org.openide.modules &gt; 7.48.1, org.netbeans.modules.autoupdate.services &gt; 1.52.1, org.openide.io &gt; 1.49.1, org.openide.util &gt; 9.7.1" OpenIDE-Module-Name="Silent Update" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="Silent Update of Application" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
@@ -110,20 +110,21 @@
     
 </module>
 
-<!--<module codenamebase="dk.sdu.mmmi.cbse.Player" distribution="Player-1.0-SNAPSHOT.nbm" downloadsize="0" license="4FF26B14" needsrestart="false" releasedate="2019/04/04" targetcluster="asteroidsnetbeansmodules">
-    <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Player" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0-20190404" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, dk.sdu.mmmi.cbse.Common &gt; 1.0, org.openide.util.lookup &gt; 8.33.1" OpenIDE-Module-Name="Player" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/>-->
-
-</module>
-
 <module codenamebase="dk.sdu.mmmi.cbse.Common" distribution="Common-1.0-SNAPSHOT.nbm" downloadsize="0" license="4FF26B14" needsrestart="false" releasedate="2019/04/11" targetcluster="asteroidsnetbeansmodules">
     <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Common" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0-20190411" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, org.openide.modules &gt; 7.48.1, org.openide.util.ui &gt; 9.6.1" OpenIDE-Module-Name="Common" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/>
-
-</module>
-
-<module codenamebase="dk.sdu.mmmi.cbse.Core" distribution="Core-1.0-SNAPSHOT.nbm" downloadsize="0" license="4FF26B14" needsrestart="false" releasedate="2019/04/04" targetcluster="asteroidsnetbeansmodules">
-    <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Core" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0-20190404" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, org.openide.modules &gt; 7.48.1, org.openide.util &gt; 9.7.1, org.openide.util.lookup &gt; 8.33.1, dk.sdu.mmmi.cbse.Common &gt; 1.0" OpenIDE-Module-Name="Core" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/>
     
 </module>
+
+<module codenamebase="dk.sdu.mmmi.cbse.Core" distribution="Core-1.0-SNAPSHOT.nbm" downloadsize="0" license="4FF26B14" needsrestart="false" releasedate="2019/04/11" targetcluster="asteroidsnetbeansmodules">
+    <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Core" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0-20190411" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, org.openide.modules &gt; 7.48.1, org.openide.util &gt; 9.7.1, org.openide.util.lookup &gt; 8.33.1, dk.sdu.mmmi.cbse.Common &gt; 1.0" OpenIDE-Module-Name="Core" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/>
+   
+</module>
+
+<module codenamebase="dk.sdu.mmmi.cbse.Player" distribution="Player-1.0-SNAPSHOT.nbm" downloadsize="0" license="4FF26B14" needsrestart="false" releasedate="2019/04/11" targetcluster="asteroidsnetbeansmodules">
+    <manifest OpenIDE-Module="dk.sdu.mmmi.cbse.Player" OpenIDE-Module-Display-Category="dk.sdu.mmmi.cbse" OpenIDE-Module-Implementation-Version="1.0-20190411" OpenIDE-Module-Long-Description="&lt;undefined&gt;" OpenIDE-Module-Module-Dependencies="org.netbeans.api.annotations.common/1 &gt; 1.27.1, dk.sdu.mmmi.cbse.Common &gt; 1.0, org.openide.util.lookup &gt; 8.33.1" OpenIDE-Module-Name="Player" OpenIDE-Module-Requires="org.openide.modules.ModuleFormat1" OpenIDE-Module-Short-Description="&lt;undefined&gt;" OpenIDE-Module-Specification-Version="1.0"/>
+    
+</module>
+
 
 <license name="4FF26B14">Copyright  2019
 -----------------------------------------------------
