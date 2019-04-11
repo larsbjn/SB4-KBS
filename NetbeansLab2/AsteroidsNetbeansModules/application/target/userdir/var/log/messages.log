@@ -1,0 +1,300 @@
+-------------------------------------------------------------------------------
+>Log Session: Thursday, April 11, 2019 10:09:29 PM CEST
+>System Info: 
+  Product Version         = NetBeans Platform 8.2 (Build 201609300101)
+  Operating System        = Linux version 4.18.0-17-generic running on amd64
+  Java; VM; Vendor        = 1.8.0_191; OpenJDK 64-Bit Server VM 25.191-b12; Oracle Corporation
+  Runtime                 = OpenJDK Runtime Environment 1.8.0_191-8u191-b12-2ubuntu0.18.04.1-b12
+  Java Home               = /usr/lib/jvm/java-8-openjdk-amd64/jre
+  System Locale; Encoding = en_US (asteroidsnetbeansmodules); UTF-8
+  Home Directory          = /home/cocodolan
+  Current Directory       = /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application
+  User Directory          = /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/userdir
+  Cache Directory         = /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/userdir/var/cache
+  Installation            = /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/etc
+                            /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/bin
+                            /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules
+                            /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
+                            /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform
+  Boot & Ext. Classpath   = /usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunpkcs11.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/zipfs.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/jaccess.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/icedtea-sound.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/nashorn.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/java-atk-wrapper.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/localedata.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunec.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/dnsns.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/sunjce_provider.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext/cldrdata.jar
+  Application Classpath   = /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/boot.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-modules.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-lookup.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/org-openide-util-ui.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/boot_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/boot_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/boot_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/boot_zh_CN.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-modules_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-modules_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-modules_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-modules_zh_CN.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-lookup_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-lookup_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-lookup_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-lookup_zh_CN.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-ui_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-ui_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-ui_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util-ui_zh_CN.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/lib/locale/org-openide-util_zh_CN.jar:/usr/lib/jvm/java-8-openjdk-amd64/lib/dt.jar:/usr/lib/jvm/java-8-openjdk-amd64/lib/tools.jar
+  Startup Classpath       = /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-netbeans-libs-asm.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core-base.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/core.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/org-openide-filesystems.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/asm-all-5.0.1.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-netbeans-libs-asm_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core-base_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-netbeans-libs-asm_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core-base_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-netbeans-libs-asm_zh_CN.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-netbeans-libs-asm_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-openide-filesystems_ru.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core-base_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core-base_zh_CN.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-openide-filesystems_ja.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-openide-filesystems_zh_CN.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/org-openide-filesystems_pt_BR.jar:/home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/core/locale/core_zh_CN.jar
+-------------------------------------------------------------------------------
+INFO [org.netbeans.core.startup.NbEvents]: Module patch or custom extension: /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/SilentUpdate/target/classes
+INFO [org.netbeans.core.modules]: Using file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/SilentUpdate/target/classes/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml as layer for dk.sdu.mmmi.cbse.SilentUpdate not jar:file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-SilentUpdate.jar!/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	org.openide.util.lookup [8.33.1 201609300101]
+	org.openide.util [9.7.1 201609300101]
+	org.openide.util.ui [9.6.1 201609300101]
+	org.openide.modules [7.48.1 201609300101]
+	org.netbeans.api.annotations.common/1 [1.27.1 201609300101]
+	org.openide.filesystems [9.10.1 201609300101]
+	org.netbeans.api.intent [1.2.1 201609300101]
+	org.netbeans.api.io [1.3.1 201609300101]
+	org.openide.io [1.49.1 201609300101]
+	org.openide.awt [7.67.1 201609300101]
+	org.netbeans.libs.asm [5.3.1 201609300101]
+	org.netbeans.bootstrap/1 [2.76.1 201609300101]
+	org.netbeans.core.startup.base [1.62.1.1 1 201609300101]
+	org.netbeans.core.startup/1 [1.62.1.1 201609300101]
+	org.netbeans.libs.osgi [1.21.1 201609300101]
+	org.netbeans.core.netigso [1.31.1 201609300101]
+	org.netbeans.modules.netbinox [1.41.1 201609300101]
+	org.netbeans.api.progress/1 [1.47.1 201609300101]
+	org.netbeans.api.progress.nb [1.47.1 201609300101]
+	org.netbeans.modules.autoupdate.services [1.52.1 201609300101]
+	dk.sdu.mmmi.cbse.SilentUpdate [1.0 1.0-20190411 201904111958]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Common[dk.sdu.mmmi.cbse.Common/1.0]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Player[dk.sdu.mmmi.cbse.Player/1.0]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Update found: Core[dk.sdu.mmmi.cbse.Core/1.0]
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Core.nbm
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/config/Modules/dk-sdu-mmmi-cbse-Core.xml@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Core.xml to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/config/Modules/dk-sdu-mmmi-cbse-Core.xml
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-Core.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Core.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-Core.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-backend-lwjgl.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d-platform-natives-desktop.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d-platform-natives-desktop.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d-platform-natives-desktop.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-box2d.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype-platform-natives-desktop.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype-platform-natives-desktop.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype-platform-natives-desktop.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-freetype.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-platform-natives-desktop.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-platform-natives-desktop.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx-platform-natives-desktop.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-gdx/gdx.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-jlayer/jlayer.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-jlayer/jlayer.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/com-badlogicgames-jlayer/jlayer.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jinput/jinput.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jinput/jinput.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jinput/jinput.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jutils/jutils.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jutils/jutils.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/net-java-jutils/jutils.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-jcraft/jorbis.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-jcraft/jorbis.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-jcraft/jorbis.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-linux.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-linux.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-linux.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-osx.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-windows.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-windows.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl-platform-natives-windows.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl.jar
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl_util.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm:netbeans/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl_util.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/ext/dk.sdu.mmmi.cbse.Core/org-lwjgl-lwjgl/lwjgl_util.jar
+INFO [org.netbeans.updater]: File /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Core.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@38abdee7
+INFO [org.netbeans.updater]: File /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update_tracking/dk-sdu-mmmi-cbse-Core.xml modified.
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update_tracking/dk-sdu-mmmi-cbse-Core.xml@0
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Common.nbm
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/config/Modules/dk-sdu-mmmi-cbse-Common.xml@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Common.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Common.xml to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/config/Modules/dk-sdu-mmmi-cbse-Common.xml
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-Common.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Common.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Common.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-Common.jar
+INFO [org.netbeans.updater]: File /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Common.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@709a0e89
+INFO [org.netbeans.updater]: File /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update_tracking/dk-sdu-mmmi-cbse-Common.xml modified.
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update_tracking/dk-sdu-mmmi-cbse-Common.xml@0
+INFO [org.netbeans.updater]: 780: Unpacking dk-sdu-mmmi-cbse-Player.nbm
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/config/Modules/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Player.nbm:netbeans/config/Modules/dk-sdu-mmmi-cbse-Player.xml to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/config/Modules/dk-sdu-mmmi-cbse-Player.xml
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-Player.jar@0
+INFO [org.netbeans.updater]: Copied file /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Player.nbm:netbeans/modules/dk-sdu-mmmi-cbse-Player.jar to /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-Player.jar
+INFO [org.netbeans.updater]: File /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/dk-sdu-mmmi-cbse-Player.nbm deleted.
+INFO [org.netbeans.updater]: Use XML Transformer: com.sun.org.apache.xalan.internal.xsltc.trax.TransformerImpl@21fb573
+INFO [org.netbeans.updater]: File /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update_tracking/dk-sdu-mmmi-cbse-Player.xml modified.
+INFO [org.netbeans.updater]: File installed /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update_tracking/dk-sdu-mmmi-cbse-Player.xml@0
+INFO [org.netbeans.updater]: File /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/update/download/additional_information.xml deleted.
+INFO [org.netbeans.core.startup.NbEvents]: Turning on modules:
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20190411 201904111449]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20190404 201904041559]
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20190404 201904041600]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Install new modules done.
+Turning on modules...
+Loading module services...
+Loading modules...
+Starting modules...
+Turning on modules...done.
+INFO [org.netbeans.modules.autoupdate.silentupdate]: None for update/install/uninstall
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated 2 more times.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated again.
+INFO [null]: Last record repeated more than 10 times, further logs of this record are ignored until the log record changes.
+INFO [null]: Last record repeated 15 times in total.
+WARNING [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml:116:3: The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+INFO [org.netbeans.modules.autoupdate.services.UpdateUnitFactory]: Cannot read UpdateItem from UpdateProvider Sample Update Center[org_netbeans_modules_autoupdate_silentupdate_update_center] to file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+org.xml.sax.SAXParseException; systemId: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml; lineNumber: 116; columnNumber: 3; The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1239)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:197)
+Caused: java.io.IOException: Failed to parse file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:199)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogProvider.getUpdateItems(AutoupdateCatalogProvider.java:143)
+[catch] at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.appendUpdateItems(UpdateUnitFactory.java:173)
+	at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.getUpdateUnits(UpdateUnitFactory.java:156)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl.getUpdateUnits(UpdateManagerImpl.java:96)
+	at org.netbeans.modules.autoupdate.services.UpdateUnitProviderImpl.getUpdateUnits(UpdateUnitProviderImpl.java:163)
+	at org.netbeans.api.autoupdate.UpdateUnitProvider.getUpdateUnits(UpdateUnitProvider.java:172)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.findUpdates(UpdateHandler.java:202)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.checkAndHandleUpdates(UpdateHandler.java:56)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateActivator$1.run(UpdateActivator.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+WARNING [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml:116:3: The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+INFO [org.netbeans.modules.autoupdate.services.UpdateUnitFactory]: Cannot read UpdateItem from UpdateProvider Sample Update Center[org_netbeans_modules_autoupdate_silentupdate_update_center] to file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+org.xml.sax.SAXParseException; systemId: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml; lineNumber: 116; columnNumber: 3; The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1239)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:197)
+Caused: java.io.IOException: Failed to parse file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:199)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogProvider.getUpdateItems(AutoupdateCatalogProvider.java:143)
+[catch] at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.appendUpdateItems(UpdateUnitFactory.java:173)
+	at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.getUpdateUnits(UpdateUnitFactory.java:143)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl$Cache.<init>(UpdateManagerImpl.java:271)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl.getCache(UpdateManagerImpl.java:231)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl.getUpdateUnits(UpdateManagerImpl.java:190)
+	at org.netbeans.api.autoupdate.UpdateManager.getUpdateUnits(UpdateManager.java:92)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.findNewModules(UpdateHandler.java:216)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.checkAndHandleUpdates(UpdateHandler.java:57)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateActivator$1.run(UpdateActivator.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+WARNING [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml:116:3: The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+INFO [org.netbeans.modules.autoupdate.services.UpdateUnitFactory]: Cannot read UpdateItem from UpdateProvider Sample Update Center[org_netbeans_modules_autoupdate_silentupdate_update_center] to file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+org.xml.sax.SAXParseException; systemId: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml; lineNumber: 116; columnNumber: 3; The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1239)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:197)
+Caused: java.io.IOException: Failed to parse file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:199)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogProvider.getUpdateItems(AutoupdateCatalogProvider.java:143)
+[catch] at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.appendUpdateItems(UpdateUnitFactory.java:173)
+	at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.getUpdateUnits(UpdateUnitFactory.java:156)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl.getUpdateUnits(UpdateManagerImpl.java:96)
+	at org.netbeans.modules.autoupdate.services.UpdateUnitProviderImpl.getUpdateUnits(UpdateUnitProviderImpl.java:163)
+	at org.netbeans.api.autoupdate.UpdateUnitProvider.getUpdateUnits(UpdateUnitProvider.java:172)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.findLocalInstalled(UpdateHandler.java:175)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.findUnstalls(UpdateHandler.java:192)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.checkAndHandleUpdates(UpdateHandler.java:58)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateActivator$1.run(UpdateActivator.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Common[dk.sdu.mmmi.cbse.Common/1.0]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Player[dk.sdu.mmmi.cbse.Player/1.0]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Intent API[org.netbeans.api.intent/1.2.1]
+WARNING [org.netbeans.modules.autoupdate.services.OperationValidator]: Essential module cannot be planned for uninstall but StandardModule:org.netbeans.api.io jarFile: /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/modules/org-netbeans-api-io.jar
+WARNING [org.netbeans.modules.autoupdate.services.OperationValidator]: Essential module cannot be planned for uninstall but StandardModule:org.openide.io jarFile: /home/cocodolan/Documents/Uni/4. Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/platform/modules/org-openide-io.jar
+WARNING [org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser]: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml:116:3: The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+INFO [org.netbeans.modules.autoupdate.services.UpdateUnitFactory]: Cannot read UpdateItem from UpdateProvider Sample Update Center[org_netbeans_modules_autoupdate_silentupdate_update_center] to file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+org.xml.sax.SAXParseException; systemId: file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml; lineNumber: 116; columnNumber: 3; The element type "module_updates" must be terminated by the matching end-tag "</module_updates>".
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1239)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:643)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl.parse(SAXParserImpl.java:327)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:197)
+Caused: java.io.IOException: Failed to parse file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/netbeans_site/updates.xml
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogParser.getUpdateItems(AutoupdateCatalogParser.java:199)
+	at org.netbeans.modules.autoupdate.updateprovider.AutoupdateCatalogProvider.getUpdateItems(AutoupdateCatalogProvider.java:143)
+[catch] at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.appendUpdateItems(UpdateUnitFactory.java:173)
+	at org.netbeans.modules.autoupdate.services.UpdateUnitFactory.getUpdateUnits(UpdateUnitFactory.java:143)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl$Cache.<init>(UpdateManagerImpl.java:271)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl.getCache(UpdateManagerImpl.java:231)
+	at org.netbeans.modules.autoupdate.services.UpdateManagerImpl.getUpdateUnit(UpdateManagerImpl.java:186)
+	at org.netbeans.modules.autoupdate.services.DependencyAggregator.getRequested(DependencyAggregator.java:113)
+	at org.netbeans.modules.autoupdate.services.Utilities.handleDependency(Utilities.java:869)
+	at org.netbeans.modules.autoupdate.services.Utilities.processDependencies(Utilities.java:830)
+	at org.netbeans.modules.autoupdate.services.Utilities.findRequiredUpdateElements(Utilities.java:638)
+	at org.netbeans.modules.autoupdate.services.Utilities.getBrokenDependencies(Utilities.java:959)
+	at org.netbeans.modules.autoupdate.services.OperationValidator.getBrokenDependencies(OperationValidator.java:183)
+	at org.netbeans.modules.autoupdate.services.OperationContainerImpl$OperationInfoImpl.getBrokenDependencies(OperationContainerImpl.java:486)
+	at org.netbeans.api.autoupdate.OperationContainer$OperationInfo.getBrokenDependencies(OperationContainer.java:402)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.feedUninstallContainer(UpdateHandler.java:269)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateHandler.checkAndHandleUpdates(UpdateHandler.java:91)
+	at org.netbeans.modules.autoupdate.silentupdate.UpdateActivator$1.run(UpdateActivator.java:28)
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:511)
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:308)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.access$301(ScheduledThreadPoolExecutor.java:180)
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:294)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1149)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:624)
+	at java.lang.Thread.run(Thread.java:748)
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Core[dk.sdu.mmmi.cbse.Core/1.0]
+INFO [org.netbeans.modules.autoupdate.silentupdate]: Uninstall found: Silent Update[dk.sdu.mmmi.cbse.SilentUpdate/1.0]
+INFO [org.netbeans.core.modules]: Using file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/SilentUpdate/target/classes/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml as layer for dk.sdu.mmmi.cbse.SilentUpdate not jar:file:/home/cocodolan/Documents/Uni/4.%20Semester/SB4-KOM/SB4-KOM/NetbeansLab2/AsteroidsNetbeansModules/application/target/asteroidsnetbeansmodules/asteroidsnetbeansmodules/modules/dk-sdu-mmmi-cbse-SilentUpdate.jar!/org/netbeans/modules/autoupdate/silentupdate/resources/layer.xml
+INFO [org.netbeans.core.startup.NbEvents]: Turning off modules:
+	dk.sdu.mmmi.cbse.Core [1.0 1.0-20190404 201904041600]
+	dk.sdu.mmmi.cbse.Player [1.0 1.0-20190404 201904041559]
+	dk.sdu.mmmi.cbse.Common [1.0 1.0-20190411 201904111449]
+	dk.sdu.mmmi.cbse.SilentUpdate [1.0 1.0-20190411 201904111958]
+	org.netbeans.modules.autoupdate.services [1.52.1 201609300101]
+	org.netbeans.api.progress.nb [1.47.1 201609300101]
+	org.netbeans.api.progress/1 [1.47.1 201609300101]
+	org.openide.awt [7.67.1 201609300101]
+	org.openide.io [1.49.1 201609300101]
+	org.netbeans.api.io [1.3.1 201609300101]
+	org.netbeans.api.intent [1.2.1 201609300101]
+	org.netbeans.api.annotations.common/1 [1.27.1 201609300101]
+Turning off modules...
+Stopping Core
+Stopping Silent Update
+Turning off modules...done.
+SEVERE [global]
+java.lang.ClassNotFoundException: org.lwjgl.opengl.LinuxKeycodes
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:222)
+Caused: java.lang.ClassNotFoundException: org.lwjgl.opengl.LinuxKeycodes starting from ModuleCL@681e5fe8[dk.sdu.mmmi.cbse.Core] with possible defining loaders null and declared parents [ModuleCL@83d53b3[org.netbeans.api.annotations.common], org.netbeans.MainImpl$BootClassLoader@7c3df479, ModuleCL@81046f1[dk.sdu.mmmi.cbse.Common]]
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:224)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+Caused: java.lang.NoClassDefFoundError: org/lwjgl/opengl/LinuxKeycodes
+	at org.lwjgl.opengl.LinuxKeyboard.getKeycode(LinuxKeyboard.java:290)
+	at org.lwjgl.opengl.LinuxKeyboard.handleKeyEvent(LinuxKeyboard.java:311)
+	at org.lwjgl.opengl.LinuxKeyboard.filterEvent(LinuxKeyboard.java:346)
+	at org.lwjgl.opengl.LinuxDisplay.processEvents(LinuxDisplay.java:854)
+	at org.lwjgl.opengl.LinuxDisplay.update(LinuxDisplay.java:912)
+	at org.lwjgl.opengl.Display.processMessages(Display.java:600)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication.mainLoop(LwjglApplication.java:145)
+	at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:114)
+Caused: com.badlogic.gdx.utils.GdxRuntimeException
+[catch] at com.badlogic.gdx.backends.lwjgl.LwjglApplication$1.run(LwjglApplication.java:120)
+SEVERE [global]
+java.lang.ClassNotFoundException: org.lwjgl.opengl.LinuxDisplay$2
+	at java.net.URLClassLoader.findClass(URLClassLoader.java:382)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:424)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Launcher.java:349)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:222)
+Caused: java.lang.ClassNotFoundException: org.lwjgl.opengl.LinuxDisplay$2 starting from ModuleCL@681e5fe8[dk.sdu.mmmi.cbse.Core] with possible defining loaders null and declared parents [ModuleCL@83d53b3[org.netbeans.api.annotations.common], org.netbeans.MainImpl$BootClassLoader@7c3df479, ModuleCL@81046f1[dk.sdu.mmmi.cbse.Common]]
+	at org.netbeans.ProxyClassLoader.loadClass(ProxyClassLoader.java:224)
+	at java.lang.ClassLoader.loadClass(ClassLoader.java:357)
+Caused: java.lang.NoClassDefFoundError: org/lwjgl/opengl/LinuxDisplay$2
+	at org.lwjgl.opengl.LinuxDisplay.resetDisplayMode(LinuxDisplay.java:630)
+	at org.lwjgl.opengl.Display.reset(Display.java:1105)
+	at org.lwjgl.opengl.Display.access$000(Display.java:65)
+[catch] at org.lwjgl.opengl.Display$1.run(Display.java:69)

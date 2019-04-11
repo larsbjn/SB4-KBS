@@ -16,10 +16,8 @@ import dk.sdu.mmmi.cbse.common.services.IPostEntityProcessingService;
 // @ServiceProvider(service = IPostEntityProcessingService.class),
 // @ServiceProvider(service = IGamePluginService.class)
 //})
-public class AsteroidPlugin
-  implements IGamePluginService, IPostEntityProcessingService
-{
-  private Entity asteroid;
+public class AsteroidPlugin implements IGamePluginService, IPostEntityProcessingService {
+    private Entity asteroid;
 
     @Override
     public void start(GameData gameData, World world) {
