@@ -1,0 +1,19 @@
+Manifest-Version: 1.0
+Bnd-LastModified: 1555943609879
+Build-Jdk: 1.8.0_192
+Built-By: larsjorgensen
+Bundle-ActivationPolicy: lazy
+Bundle-ManifestVersion: 2
+Bundle-Name: OSGiPlayer
+Bundle-SymbolicName: dk.sdu.mmmi.cbse.OSGiPlayer
+Bundle-Version: 1.0.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Export-Package: dk.sdu.mmmi.cbse.osgiplayer;version="1.0.0";uses:="dk.sd
+ u.mmmi.cbse.common.data,dk.sdu.mmmi.cbse.common.services"
+Import-Package: dk.sdu.mmmi.cbse.common.data;version="[1.0,2)",dk.sdu.mm
+ mi.cbse.common.data.entityparts;version="[1.0,2)",dk.sdu.mmmi.cbse.comm
+ on.services;version="[1.0,2)",dk.sdu.mmmi.cbse.commonplayer;version="[1
+ .0,2)"
+Require-Capability: osgi.ee;filter:="(&(osgi.ee=JavaSE)(version=1.8))"
+Service-Component: META-INF/entityprocessor.xml, META-INF/gameplugin.xml
+Tool: Bnd-3.3.0.201609221906

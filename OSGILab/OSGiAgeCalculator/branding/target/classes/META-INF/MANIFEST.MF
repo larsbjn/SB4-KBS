@@ -1,0 +1,17 @@
+Manifest-Version: 1.0
+OpenIDE-Module-Localizing-Bundle: dk/sdu/mmmi/cbse/branding/Bundle.pro
+ perties
+AutoUpdate-Essential-Module: true
+OpenIDE-Module-Specification-Version: 0.0.1
+OpenIDE-Module-Implementation-Version: 0.0.1-20190418
+OpenIDE-Module-Build-Version: 201904181243
+OpenIDE-Module: dk.sdu.mmmi.cbse.OSGiAgeCalculator.branding
+OpenIDE-Module-Public-Packages: -
+OpenIDE-Module-Requires: org.openide.modules.ModuleFormat1
+OpenIDE-Module-Display-Category: dk.sdu.mmmi.cbse
+OpenIDE-Module-Name: OSGiAgeCalculator-branding
+OpenIDE-Module-Short-Description: <undefined>
+OpenIDE-Module-Long-Description: <undefined>
+OpenIDE-Module-Module-Dependencies: org.netbeans.api.annotations.commo
+ n/1 > 1.27.1
+
