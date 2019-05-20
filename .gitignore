@@ -20,3 +20,9 @@
 /OSGILab/AsteroidsOSGi/application/target/
 /OSGILab/AsteroidsOSGi/CommonPlayer/target/
 /OSGILab/AsteroidsOSGi/OSGiPlayer/target/
+/TestLab/TestLab/src/main/java/dk/sdu/mmmi/cbse/testlab/Asteroid/target/
+/TestLab/TestLab/src/main/java/dk/sdu/mmmi/cbse/testlab/Bullet/target/
+/TestLab/TestLab/src/main/java/dk/sdu/mmmi/cbse/testlab/Collision/target/
+/TestLab/TestLab/src/main/java/dk/sdu/mmmi/cbse/testlab/application/target/
+/TestLab/TestLab/src/main/java/dk/sdu/mmmi/cbse/testlab/branding/target/
+/TestLab/AsteroidsNetbeansModules/Collision/nbproject/
